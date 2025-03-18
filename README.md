@@ -6,10 +6,10 @@ currently it's main purpose is quick access to commonly used tools in red teamin
 
 ## Contents
 
-- [CLI - File and Directory Modification](./CLI%20-%20File%20and%20Directory%20Modification.md)
-- [CLI - File System Navigation](./CLI%20-%20File%20System%20Navigation.md)
-- [CLI - NMAP](./CLI%20-%20NMAP.md)
-- [WIRESHARK filter cheat sheet](./WIRESHARK%20filter%20cheat%20sheet.md)
+- [CLI - File and Directory Modification](./Github/CLI%20-%20File%20and%20Directory%20Modification.md)
+- [CLI - File System Navigation](./Github/CLI%20-%20File%20System%20Navigation.md)
+- [CLI - NMAP](./Github/CLI%20-%20NMAP.md)
+- [WIRESHARK filter cheat sheet](./Github/WIRESHARK%20filter%20cheat%20sheet.md)
 
 
 ## Useful websites:

@@ -6,8 +6,8 @@ aliases:
 Nmap, full name Network Mapper.
 
 Scan volgorde:
-nmap -sP scan
-Dan specifiek nmap -sS -A --script vuln IP.Addr
+1. nmap -sP scan
+2. nmap -sS -A --script vuln IP.Addr
 
 ## NetworkChuck covered switches
 Source: [nmap tutorial to find network vulnerabilities](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
